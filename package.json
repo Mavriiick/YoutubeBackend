@@ -1,0 +1,16 @@
+{
+  "name": "youtubebackend",
+  "version": "1.0.0",
+  "description": "a backend at Sudhir ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "backend",
+    "javascript"
+  ],
+  "author": "sudhir pareek",
+  "license": "ISC"
+}
